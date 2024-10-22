@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elbandec.github.io/elbandec.txt.gz
+Sitemap: https://elbandec.github.io/app/elbandec.txt.gz
+Sitemap: https://elbandec.github.io/assets/elbandec.txt.gz
+Sitemap: https://elbandec.github.io/css/elbandec.txt.gz
+Sitemap: https://elbandec.github.io/includes/elbandec.txt.gz
+Sitemap: https://elbandec.github.io/item/elbandec.txt.gz
+Sitemap: https://elbandec.github.io/src/elbandec.txt.gz
